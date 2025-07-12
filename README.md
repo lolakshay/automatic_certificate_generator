@@ -1,6 +1,7 @@
 🏆 Automatic Certificate Name Generator
 
 This Python program automates the process of generating personalized certificates using data from an Excel file. It reads names from the names column and overlays them onto a given certificate image.
+
 📌 Features
 
 Read names from an Excel sheet (.xlsx) using pandas
