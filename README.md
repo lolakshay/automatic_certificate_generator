@@ -8,13 +8,13 @@ Automatically overlay each name on a certificate image
 Customize font, size, position (x, y), and image
 Folder Structure
 
-certificate_generator/
-├── input.xlsx           # Excel file with a column named 'names'
-├── ss.png               # Template certificate image (replace as needed)
-├── YourFont.ttf         # Font file used for printing names (optional)
-├── output/              # Auto-created folder to store generated certificates
-└── certificator_automator.py              # Main script to run the program
-
+The certificate_generator folder contains:
+  input.xlsx – Excel file with a column named "names" listing all recipients
+  ss.png – The certificate template image (can be replaced with your own)
+  YourFont.ttf – Optional font file used to print names
+  output – Folder where all generated certificates will be saved
+  certificator_automator.py – Main Python script that runs the program and creates the certificates
+  
 📦 Requirements
 
   Python 3.x
