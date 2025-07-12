@@ -1,0 +1,3 @@
+So, this is a automatic Certificate name generator program , done using python pandas , so basically it just takes the input from the excel sheet under "names" column and recursively prints on the given image or certificate
+to customize this , use your or you need to add the names to the excel sheet and then replace the ss.png with your need of certificate or image file, then run the program, there will be some x and y co-ordinates , there you can adjust where it need to print in your certificate ,
+you can change the font tooo.. if anyfont is not found , download the font and place in the dir and give the correct name to the input font variable
